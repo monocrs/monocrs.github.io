@@ -1,6 +1,5 @@
 # Site settings
 title: "Hello, World!"
-baseurl: "/"
 url: "https://monocrs.github.io"
 
 # Build settings
