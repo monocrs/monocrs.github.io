@@ -15,5 +15,7 @@ I have to say, taking pets on VR is super easy and comfortable. They even provid
 ![]({{site.baseurl}}/assets/images/21032026_1.jpg)
 > You don’t see it, but there’s a kitten inside the bag. The dog is sniffing carefully, curious and hopeful, like he might’ve just found a new friend for the road.
 
+
+
 ![]({{site.baseurl}}/assets/images/21032026_2.jpg)
 > This was another trip with VR. Look at the kitty, sleeping like no one is watching.
